@@ -11,7 +11,7 @@ If you use this dataset in any published research, please cite the following:
 * Hitomi Yanaka, Koji Mineshima, Daisuke Bekki, Kentaro Inui, Satoshi Sekine, Lasha Abzianidze, and Johan Bos. Can neural networks understand monotonicity reasoning? Proceedings of ACL2019 Workshop BlackboxNLP: Analyzing and interpreting neural networks for NLP, Florence, Italy, 2019. [arXiv]()
 
 ```
-@InProceedings{yanaka-EtAl:2019:starsem,
+@InProceedings{yanaka-EtAl:2019:blackbox,
   author    = {Yanaka, Hitomi and Mineshima, Koji  and  Bekki, Daisuke and Inui, Kentaro and Sekine, Satoshi and Abzianidze, Lasha and Bos, Johan},
   title     = {Can neural networks understand monotonicity reasoning?},
   booktitle = {Proceedings of ACL2019 Workshop BlackboxNLP: Analyzing and interpreting neural networks for NLP},
