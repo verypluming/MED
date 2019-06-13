@@ -1,5 +1,7 @@
 # MED: Monotonicity Entailment Dataset (Ver.1.0)
 
+## Coming soon!
+
 ## Overview
 MED is a new evaluation dataset that covers a wide range of monotonicity reasoning that was created by crowdsourcing and collected from linguistics publications.
 Compared with manual or automatic construction like [HELP](https://github.com/verypluming/HELP), we collected naturally-occurring examples by crowdsourcing and well-designed ones from linguistics publications.
