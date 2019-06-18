@@ -8,7 +8,7 @@ Compared with manual or automatic construction like [HELP](https://github.com/ve
 
 ## Citation
 If you use this dataset in any published research, please cite the following:
-* Hitomi Yanaka, Koji Mineshima, Daisuke Bekki, Kentaro Inui, Satoshi Sekine, Lasha Abzianidze, and Johan Bos. Can neural networks understand monotonicity reasoning? Proceedings of ACL2019 Workshop BlackboxNLP: Analyzing and interpreting neural networks for NLP, Florence, Italy, 2019. [arXiv]()
+* Hitomi Yanaka, Koji Mineshima, Daisuke Bekki, Kentaro Inui, Satoshi Sekine, Lasha Abzianidze, and Johan Bos. Can neural networks understand monotonicity reasoning? Proceedings of ACL2019 Workshop BlackboxNLP: Analyzing and interpreting neural networks for NLP, Florence, Italy, 2019. [arXiv](https://arxiv.org/pdf/1906.06448.pdf)
 
 ```
 @InProceedings{yanaka-EtAl:2019:blackbox,
