@@ -46,3 +46,7 @@ Apache License
 
 ## Acknowledgement
 This work is conducted in collaboration with RIKEN AIP, Ochanomizu University, and University of Groningen.
+We also thank [The FraCaS Test Suite](https://nlp.stanford.edu/~wcmac/downloads/fracas.xml) and [The General Language Understanding Evaluation (GLUE) Benchmark](https://gluebenchmark.com/).
+
+## Disclaimer
+A part of the MED dataset is collected from the published works referred in our paper, and copyright (where applicable) remains with the original authors or publishers.
