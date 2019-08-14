@@ -38,7 +38,7 @@ If you use this dataset in any published research, please cite the following:
     }
 ```
 
-We also recommend citing two papers introducing previous NLI datasets [FraCaS](https://nlp.stanford.edu/~wcmac/downloads/fracas.xml) and [GLUE](https://gluebenchmark.com/) (A part of the MED datasets come from them).
+A part of the MED dataset comes from [the FraCaS test suite (Generalized Quantifier section)](https://nlp.stanford.edu/~wcmac/downloads/fracas.xml) and [the GLUE diagnostic set](https://gluebenchmark.com/).
 ```
 @article{cooper1994fracas,
   title={{F}ra{C}a{S}--A Framework for Computational Semantics},
