@@ -38,6 +38,31 @@ If you use this dataset in any published research, please cite the following:
     }
 ```
 
+We also recommend citing two papers introducing previous NLI datasets [FraCaS](https://nlp.stanford.edu/~wcmac/downloads/fracas.xml) and [GLUE](https://gluebenchmark.com/) (A part of the MED datasets come from them).
+```
+@article{cooper1994fracas,
+  title={{F}ra{C}a{S}--A Framework for Computational Semantics},
+  author={Cooper, Robin and Crouch, Richard and van Eijck, Jan and Fox, Chris and van Genabith, Josef and Jaspers, Jan and Kamp, Hans and Pinkal, Manfred and Poesio, Massimo and Pulman, Stephen and others},
+  journal={Deliverable},
+  volume={D6},
+  year={1994}
+}
+```
+```
+@InProceedings{wang2019glue,
+    title = "{GLUE}: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+    author = "Wang, Alex  and
+      Singh, Amanpreet  and
+      Michael, Julian  and
+      Hill, Felix  and
+      Levy, Omer  and
+      Bowman, Samuel",
+    booktitle = {Proceedings of the International Conference on Learning Representations (ICLR-2019)},
+    year = "2019",
+}
+```
+
+
 ## Contact
 For questions and usage issues, please contact hitomi.yanaka@riken.jp .
 
@@ -46,7 +71,6 @@ Apache License
 
 ## Acknowledgement
 This work is conducted in collaboration with RIKEN AIP, Ochanomizu University, and University of Groningen.
-We also thank [The FraCaS Test Suite](https://nlp.stanford.edu/~wcmac/downloads/fracas.xml) and [The General Language Understanding Evaluation (GLUE) Benchmark](https://gluebenchmark.com/).
 
 ## Disclaimer
-A part of the MED dataset is collected from the published works referred in our paper, and copyright (where applicable) remains with the original authors or publishers.
+A part of the MED dataset is collected from the published works referred to in our paper, and copyright (where applicable) remains with the original authors or publishers.
