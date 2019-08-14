@@ -38,30 +38,7 @@ If you use this dataset in any published research, please cite the following:
     }
 ```
 
-A part of the MED dataset comes from [the FraCaS test suite (Generalized Quantifier section)](https://nlp.stanford.edu/~wcmac/downloads/fracas.xml) and [the GLUE diagnostic set](https://gluebenchmark.com/).
-```
-@article{cooper1994fracas,
-  title={{F}ra{C}a{S}--A Framework for Computational Semantics},
-  author={Cooper, Robin and Crouch, Richard and van Eijck, Jan and Fox, Chris and van Genabith, Josef and Jaspers, Jan and Kamp, Hans and Pinkal, Manfred and Poesio, Massimo and Pulman, Stephen and others},
-  journal={Deliverable},
-  volume={D6},
-  year={1994}
-}
-```
-```
-@InProceedings{wang2019glue,
-    title = "{GLUE}: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
-    author = "Wang, Alex  and
-      Singh, Amanpreet  and
-      Michael, Julian  and
-      Hill, Felix  and
-      Levy, Omer  and
-      Bowman, Samuel",
-    booktitle = {Proceedings of the International Conference on Learning Representations (ICLR-2019)},
-    year = "2019",
-}
-```
-
+A part of the MED dataset comes from [the FraCaS test suite (Generalized Quantifier section)](https://nlp.stanford.edu/~wcmac/downloads/fracas.xml) and [the GLUE diagnostic set](https://gluebenchmark.com/diagnostics).
 
 ## Contact
 For questions and usage issues, please contact hitomi.yanaka@riken.jp .
