@@ -5,10 +5,11 @@ MED is a new evaluation dataset that covers a wide range of monotonicity reasoni
 Compared with manual or automatic construction like [HELP](https://github.com/verypluming/HELP), we collected naturally-occurring examples by crowdsourcing and well-designed ones from linguistics publications.
 
 ## Data
-The file ``MED.tsv`` is formatted similarly to the MNLI release, so if your system is trained on MNLI you may be able to feed this file directly into your system. Otherwise, you may need to reformat the data to fit your system's input format. 
+The file ``MED.tsv`` have 5,382 examples: 4,068 ``crowd`` examples and 1,314 ``paper`` examples.
+This file is formatted similarly to the MNLI release, so if your system is trained on MNLI you may be able to feed this file directly into your system (several columns, like label_N and X_parses are empty but kept in order to keep the format of MNLI.) Otherwise, you may need to reformat the data to fit your system's input format. 
 
 The fields in this file are:
-- ``gold_label``: The correct label for this sentence pair (either ``entailment`` or ``neutral``)
+- ``gold_label``: The correct label for this sentence pair (either ``entailment`` or ``neutral``); in our setting, ``neutral`` = neutral + contradiction)
 - ``sentence1``: The premise
 - ``sentence2``: The hypothesis
 - ``pairID``: A unique identifier for this sentence pair
@@ -17,6 +18,7 @@ The fields in this file are:
  - (ii) the type of monotonicity reasoning (``upward_monotone``, ``downward_monotone``, and ``non_monotone``) 
  - (iii) the linguistic phenomena related to monotonicity reasoning (``lexical_knowledge``, ``reverse``, ``conjunction``, ``disjunction``, ``conditionals``, and ``npi``)
  - (iv) original NLI datasets (optional)
+ 
 
 ## Citation
 If you use this dataset in any published research, please cite the following:
