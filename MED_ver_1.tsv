@@ -5044,7 +5044,7 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5043	5043	5043	paper:downward_monotone:lexical_knowledge					she never kissed him.	she never touched him.						neutral
 5044	5044	5044	paper:downward_monotone:lexical_knowledge					she never touched him.	she never kissed him.						entailment
 5045	5045	5045	paper:downward_monotone:lexical_knowledge					nobody here has a german car.	nobody here has a european car.						neutral
-5046	5046	5046	paper:downward_monotone:lexical_knowledge					nobody here has a europoean car.	nobody here has a german car.						entailment
+5046	5046	5046	paper:downward_monotone:lexical_knowledge					nobody here has a european car.	nobody here has a german car.						entailment
 5047	5047	5047	paper:downward_monotone:lexical_knowledge					every zebra is striped.	every mammal is striped.						neutral
 5048	5048	5048	paper:downward_monotone:lexical_knowledge					every mammal is striped.	every zebra is striped.						entailment
 5049	5049	5049	paper:downward_monotone:lexical_knowledge					before she kissed him, she brushed her teeth.	before she touched him, she brushed her teeth.						neutral
