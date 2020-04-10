@@ -5083,10 +5083,10 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5082	5082	5082	paper:upward_monotone:lexical_knowledge					Betty lives in Germany.	Betty lives in Berlin.						neutral
 5083	5083	5083	paper:downward_monotone:lexical_knowledge					Betty doesn't live in Germany.	Betty doesn't live in Berlin.						entailment
 5084	5084	5084	paper:downward_monotone:lexical_knowledge					Betty doesn't live in Berlin.	Betty doesn't live in Germany.						neutral
-5085	5085	5085	paper:downward_monotone:lexical_knowledge					It's not true that betty lives in Germany.	It's not true that betty lives in Berlin.						entailment
-5086	5086	5086	paper:downward_monotone:lexical_knowledge					It's not true that betty lives in Berlin.	It's not true that betty lives in Germany.						neutral
-5087	5087	5087	paper:upward_monotone:lexical_knowledge:reverse					It's not true that betty doesn't live in Berlin.	It's not true that betty doesn't live in Germany.						entailment
-5088	5088	5088	paper:upward_monotone:lexical_knowledge:reverse					It's not true that betty doesn't live in Germany.	It's not true that betty doesn't live in Berlin.						neutral
+5085	5085	5085	paper:downward_monotone:lexical_knowledge					It's not true that Betty lives in Germany.	It's not true that Betty lives in Berlin.						entailment
+5086	5086	5086	paper:downward_monotone:lexical_knowledge					It's not true that Betty lives in Berlin.	It's not true that Betty lives in Germany.						neutral
+5087	5087	5087	paper:upward_monotone:lexical_knowledge:reverse					It's not true that Betty doesn't live in Berlin.	It's not true that Betty doesn't live in Germany.						entailment
+5088	5088	5088	paper:upward_monotone:lexical_knowledge:reverse					It's not true that Betty doesn't live in Germany.	It's not true that Betty doesn't live in Berlin.						neutral
 5089	5089	5089	paper:upward_monotone:lexical_knowledge					All dots are scarlet.	All dots are red.						entailment
 5090	5090	5090	paper:upward_monotone:lexical_knowledge					All dots are red.	All dots are scarlet.						neutral
 5091	5091	5091	paper:upward_monotone:lexical_knowledge					Most dots are scarlet.	Most dots are red.						entailment
