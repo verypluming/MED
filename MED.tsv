@@ -5035,10 +5035,10 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5034	5034	5034	paper:upward_monotone:lexical_knowledge					She has a European car.	She has a German car.						neutral
 5035	5035	5035	paper:upward_monotone:lexical_knowledge					Nina has a bulldog.	Nina has a dog.						entailment
 5036	5036	5036	paper:upward_monotone:lexical_knowledge					Nina has a dog.	Nina has a bulldog.						neutral
-5037	5037	5037	paper:upward_monotone:lexical_knowledge					Aldo kissed nina.	Aldo touched nina.						entailment
-5038	5038	5038	paper:upward_monotone:lexical_knowledge					Aldo touched nina.	Aldo kissed nina.						neutral
-5039	5039	5039	paper:upward_monotone:lexical_knowledge					A bulldog attacked nina.	A dog attacked nina.						entailment
-5040	5040	5040	paper:upward_monotone:lexical_knowledge					A dog attacked nina.	A bulldog attacked nina.						neutral
+5037	5037	5037	paper:upward_monotone:lexical_knowledge					Aldo kissed Nina.	Aldo touched Nina.						entailment
+5038	5038	5038	paper:upward_monotone:lexical_knowledge					Aldo touched Nina.	Aldo kissed Nina.						neutral
+5039	5039	5039	paper:upward_monotone:lexical_knowledge					A bulldog attacked Nina.	A dog attacked Nina.						entailment
+5040	5040	5040	paper:upward_monotone:lexical_knowledge					A dog attacked Nina.	A bulldog attacked Nina.						neutral
 5041	5041	5041	paper:downward_monotone:lexical_knowledge					She did not give him a rose.	She did not give him a flower.						neutral
 5042	5042	5042	paper:downward_monotone:lexical_knowledge					She did not give him a flower.	She did not give him a rose.						entailment
 5043	5043	5043	paper:downward_monotone:lexical_knowledge					She never kissed him.	She never touched him.						neutral
