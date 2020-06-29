@@ -5331,14 +5331,14 @@ index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	senten
 5330	5330	5330	paper:upward_monotone:disjunction					No less than five campers have caught a cold.	No less than five campers have had a sunburn or caught a cold.						entailment
 5331	5331	5331	paper:upward_monotone:disjunction:npi					No less than five children decided on the cotton candy.	No less than five children chose any mint chocolates or decided on the cotton candy.						entailment
 5332	5332	5332	paper:upward_monotone:disjunction					No less than five children decided on the cotton candy.	No less than five children chose mint chocolates or decided on the cotton candy.						entailment
-5333	5333	5333	paper:non_monotone:disjunction:npi					Only five campers have caught a cold.	Only five campers have ever had a sunburn or caught a cold.						entailment
-5334	5334	5334	paper:non_monotone:disjunction					Only five campers have caught a cold.	Only five campers have had a sunburn or caught a cold.						entailment
-5335	5335	5335	paper:non_monotone:disjunction:npi					Only five children decided on the cotton candy.	Only five children chose any mint chocolates or decided on the cotton candy.						entailment
-5336	5336	5336	paper:non_monotone:disjunction					Only five children decided on the cotton candy.	Only five children chose mint chocolates or decided on the cotton candy.						entailment
-5337	5337	5337	paper:non_monotone:disjunction:npi					Only five of the campers have caught a cold.	Only five of the campers have ever had a sunburn or caught a cold.						entailment
-5338	5338	5338	paper:non_monotone:disjunction					Only five of the campers have caught a cold.	Only five of the campers have had a sunburn or caught a cold.						entailment
-5339	5339	5339	paper:non_monotone:disjunction:npi					Only five of the children decided on the cotton candy.	Only five of the children chose any mint chocolates or decided on the cotton candy.						entailment
-5340	5340	5340	paper:non_monotone:disjunction					Only five of the children decided on the cotton candy.	Only five of the children chose mint chocolates or decided on the cotton candy.						entailment
+5333	5333	5333	paper:non_monotone:disjunction:npi					Only five campers have caught a cold.	Only five campers have ever had a sunburn or caught a cold.						neutral
+5334	5334	5334	paper:non_monotone:disjunction					Only five campers have caught a cold.	Only five campers have had a sunburn or caught a cold.						neutral
+5335	5335	5335	paper:non_monotone:disjunction:npi					Only five children decided on the cotton candy.	Only five children chose any mint chocolates or decided on the cotton candy.						neutral
+5336	5336	5336	paper:non_monotone:disjunction					Only five children decided on the cotton candy.	Only five children chose mint chocolates or decided on the cotton candy.						neutral
+5337	5337	5337	paper:non_monotone:disjunction:npi					Only five of the campers have caught a cold.	Only five of the campers have ever had a sunburn or caught a cold.						neutral
+5338	5338	5338	paper:non_monotone:disjunction					Only five of the campers have caught a cold.	Only five of the campers have had a sunburn or caught a cold.						neutral
+5339	5339	5339	paper:non_monotone:disjunction:npi					Only five of the children decided on the cotton candy.	Only five of the children chose any mint chocolates or decided on the cotton candy.						neutral
+5340	5340	5340	paper:non_monotone:disjunction					Only five of the children decided on the cotton candy.	Only five of the children chose mint chocolates or decided on the cotton candy.						neutral
 5341	5341	5341	paper:upward_monotone					John is a tall student.	John is a student.						entailment
 5342	5342	5342	paper:upward_monotone					John is very tall.	John is tall.						entailment
 5343	5343	5343	paper:upward_monotone					John is a very tall student.	John is a student.						entailment
