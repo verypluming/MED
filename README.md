@@ -46,7 +46,7 @@ A part of the MED dataset comes from [the FraCaS test suite (Generalized Quantif
 For questions and usage issues, please contact hitomi.yanaka@riken.jp .
 
 ## License
-Apache License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Acknowledgement
 This work is conducted in collaboration with RIKEN AIP, Ochanomizu University, and University of Groningen.
